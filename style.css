@@ -1,0 +1,115 @@
+body {
+  background-color: #b8ebd0;
+  text-align: center;
+  line-height: normal;
+  border-style: none;
+  height: auto;
+  width: auto;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Satisfy', cursive;
+  font-size: 560.5%;
+  position: relative;
+  text-align: center;
+  padding-top: 60px;
+}
+
+p {
+  font-family: 'Spartan', sans-serif;
+  position: relative;
+  text-align: center;
+  border-style: none;
+}
+
+.cloudimage1 {
+  position: absolute;
+  left: 300px;
+  padding-top: 85px;
+}
+
+.cloudimage2 {
+  position: absolute;
+  right: 300px;
+}
+
+.mountainimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top {
+  background-color: #b8ebd0;
+  position: relative;
+  padding: 100px;
+}
+
+.ashleyemma {
+  float: left;
+  margin-right: 30px;
+}
+
+.middle {
+  background-color: #b8ebd0;
+  position: relative;
+  padding: 100px;
+}
+
+.skills {
+  background-color: #b8ebd0;
+  position: relative;
+  padding: 100px;
+}
+
+.skill-row {
+  background-color: #b8ebd0;
+  position: relative;
+  padding: 100px;
+}
+
+.contact-me {
+  background-color: #b8ebd0;
+  position: relative;
+  padding: 100px;
+}
+
+.bottom {
+  align-content: center;
+  background-color: #b8ebd0;
+  padding: 15px;
+  text-align: center;}
+
+
+
+/*
+body {
+  background-color: MistyRose;
+}
+/***************************TAG SELECTORS***************************************/
+/*Extra CSS style Examples*/
+/*hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {color: #6d717a;
+font-size: 50px;}
+h2{color: #6d717a}
+h3 {color: #6d717a}
+h4 {color: #6d717a}
+h5 {color: #6d717a}
+
+
+img:hover{background-color: #b8ebd0}
+/***************************CLASS SELECTORS***************************************/
+/*
+.food {background-color: #6d6875}
+.people {background-color: #6d6875}
+.circular {border-radius: 50%}
+
+/***************************ID SELECTORS***************************************/
+/*
+#heading {color: #b5838d}
